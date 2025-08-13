@@ -3,6 +3,4 @@
 <h2> Celebrate Independence Day coming next week with MG Enterpise
     Hello world! </h2>
 <h2> Learn Selenium, Rest Assured, Cucumber, Jenkins, Docker, Kubernetes and
-    many more tools in this course developed By Mukul Jain</h2>
-<h2> 
-</h2>
+    many more tools in this course developed By Mukul Jain from dev1</h2>
